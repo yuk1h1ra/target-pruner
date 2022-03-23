@@ -1,0 +1,2 @@
+# target-pruner
+Burp Extension
